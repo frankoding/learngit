@@ -16,4 +16,10 @@ about git
 ----------------------------------
 1. git is a distributed version control system;
 2. git is a free software;
-3. git is developed by linus
+3. git is developed by linus;
+4. git has a matable index called stage;
+
+----------------------------------
+how git works
+----------------------------------
+1. git tracks changes;
