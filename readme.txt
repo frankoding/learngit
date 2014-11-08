@@ -16,3 +16,4 @@ about git
 ----------------------------------
 1. git is a distributed version control system;
 2. git is a free software;
+3. git is developed by linus
